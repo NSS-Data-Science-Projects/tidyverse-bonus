@@ -38,7 +38,7 @@ Create an R notebook to answer the following questions.
 
 **Continued Exploration and Practice**
 
-13. Read in the school-level testing data for 2014, available [here](https://www.tn.gov/content/dam/tn/education/data/data_2014_state_base.xlsx). You might find the readxl library useful for this task. If you use this library, be sure to look at the `na` argument for the `read_excel` function.
+13. Read in the school-level testing data for 2014, available [here](https://www.tn.gov/content/dam/tn/education/data/data_2014_school_base.xlsx). You might find the readxl library useful for this task. If you use this library, be sure to look at the `na` argument for the `read_excel` function.
 
 To answer the following questions, use "All Students" for the subgroup. 
 
