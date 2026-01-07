@@ -26,7 +26,7 @@ Create an R notebook to answer the following questions.
 
 7. Create a scatter plot to compare alg_1 proficiency rates to alg_2 rates. What do you notice? Facet this plot by region. Does anything stand out when you facet the plots?
 
-8. When creating this bar chart you may have noticed that some districts have missing enrollment values. For how many districts is this the case?
+8. Create a bar chart showing the total enrollment by region. Which region has the highest total enrollment? Which has the smallest? When creating this bar chart you may have noticed that some districts have missing enrollment values. For how many districts is this the case?
 
 9. A lot of rows are missing additional values. Which district has the largest number of missing values (across all variables)? Hint: you might want to look at rowwise and c_across to answer this question.
 
@@ -34,7 +34,7 @@ Create an R notebook to answer the following questions.
 
 11. Redo the previous question but use a weighted average (`weighted.mean`) graduation across all districts, weighing by enrollment. How much does this change your answer? Can you explain using the data the reason for the big change from using the mean?
 
-12. Find the unweighted and weighted average graduation rate by district.
+12. Find the unweighted and weighted average graduation rate by region.
 
 **Continued Exploration and Practice**
 
